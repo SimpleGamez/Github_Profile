@@ -49,12 +49,12 @@
 
 <h3>📊 GitHub Statistics</h3>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SimpleGamez&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SimpleGamez&theme=discord_old_blurple&hide_border=true&show_icons=true" />
   <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=SimpleGamez&theme=discord_old_blurple&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleGamez&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleGamez&theme=discord_old_blurple&hide_border=true&layout=compact&langs_count=10" />
 </p>
 
 <br/>
