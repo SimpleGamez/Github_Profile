@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=D42029&height=200&section=header&text=Kishan%20Verma&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Level%2099%20Developer%20%2F%20Godot%20Main&descAlignY=65&descAlign=50" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=200&section=header&text=Kishan%20Verma&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Godot%20%7C%20Self-Host&descAlignY=65&descAlign=50" alt="Header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=D42029&center=true&vCenter=true&width=435&lines=Class:+Full+Stack+Architect;Sub-Class:+Game+Developer;Skill:+Self-Hosting+(S-Rank);Status:+Available+for+Hire" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Godot+Game+Developer;Homelab+%26+Self-Hosting;Open+Source+Enthusiast" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -49,27 +49,27 @@
 
 <h3>📊 GitHub Statistics</h3>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SimpleGamez&theme=radical&hide_border=true&show_icons=true" />
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=SimpleGamez&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SimpleGamez&hide_border=true&show_icons=true&icon_color=FF0000&title_color=FF0000" />
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=SimpleGamez&hide_border=true&ring=FF0000&fire=FF0000&stroke=FF0000" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleGamez&theme=radical&hide_border=true&layout=compact&langs_count=10" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleGamez&hide_border=true&layout=compact&langs_count=10&icon_color=FF0000" />
 </p>
 
 <br/>
 
 <h3>🏆 Achievements</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=SimpleGamez&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=SimpleGamez&no-frame=true&no-bg=true&margin-w=4&theme=radical" />
 
 <br/>
 <br/>
 
 <h3>🔝 Top Contributions</h3>
-<img src="https://github-contributor-stats.vercel.app/api?username=SimpleGamez&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=SimpleGamez&limit=5&combine_all_yearly_contributions=true&theme=radical" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D42029&height=20&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=20&section=footer" />
 
 </div>
